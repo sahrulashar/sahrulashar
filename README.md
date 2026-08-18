@@ -1,7 +1,52 @@
 # 💫 About Me:
-Machine Learning Learner | Python Developer | Problem Solver<br><br>Passionate about extracting knowledge from data and building smart systems. Experienced in developing web applications with Flask and continuously exploring Machine Learning techniques such as Classification, Feature Selection, Data Preprocessing, and Model Evaluation.<br><br>Current Focus:<br>• Machine Learning<br>• Data Mining<br>• Feature Engineering<br>• Predictive Analytics<br>• Flask Development<br><br>Rule #1: Keep Learning. Keep Building.
+# 👋 Hi, I'm Sahrul
 
+### Machine Learning Learner | Python Developer | Networking Enthusiast | Problem Solver
 
+Passionate about building practical solutions through **software development, machine learning, and computer networking**.
+
+I enjoy learning how technology works from both the software and infrastructure sides — from building applications with Python and Flask to exploring machine learning techniques and computer networks.
+
+### 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 📊 Data Mining & Feature Engineering
+- 📈 Predictive Analytics
+- 🐍 Python & Flask Development
+- 🌐 Computer Networking
+- 🔧 Cisco & Network Infrastructure
+
+### 🛠️ Technologies & Tools
+
+**Programming & Development**
+- Python
+- Flask
+- Django
+- REST API
+- MySQL
+
+**Machine Learning**
+- Scikit-learn
+- Pandas
+- NumPy
+- Data Preprocessing
+- Feature Selection
+- Model Evaluation
+
+**Networking**
+- Cisco
+- TCP/IP
+- OSI Model
+- VLAN
+- Routing & Switching
+- DHCP
+- Network Fundamentals
+
+### 📚 Currently Learning
+
+I'm continuously improving my skills in **Machine Learning, Backend Development, and Computer Networking**, with a focus on building projects and gaining practical experience.
+
+> **Rule #1: Keep Learning. Keep Building.**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sahrulashar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahrulashar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahrulashar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@leviengineerkenamental) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sahrulashar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yand.aiden77@gmail.com) 
 
